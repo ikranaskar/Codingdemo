@@ -1,5 +1,0 @@
-# Codingdemo
-
-hi
-we
-is
